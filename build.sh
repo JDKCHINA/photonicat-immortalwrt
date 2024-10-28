@@ -13,6 +13,7 @@ src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
 src-git moddns1 https://github.com/sbwml/luci-app-mosdns.git;v5-lua
 src-git mosdns2 https://github.com/sbwml/v2ray-geodata.git;v5-lua
 src-git istore https://github.com/linkease/istore-ui.git;main
+src-git agd https://github.com/kongfl888/luci-app-adguardhome
 
 EOF
 rm target/linux/rockchip/files/arch/arm64/boot/dts/rockchip/rk3568-photonicat.dts
