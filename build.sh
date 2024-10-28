@@ -6,9 +6,13 @@ ln -s /mnt/openwrt/immortalwrt ./immortalwrt
 cd immortalwrt
 df -h
 cat << EOF >> feeds.conf.default
+
 src-git diy1 https://github.com/xiaorouji/openwrt-passwall-packages.git;main
 src-git diy2 https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
+
+# MosDNS
+git clone --depth=1 -b v5-lua https://github.com/sbwml/luci-app-mosdns package/luci-app-mosdns
 
 
 
