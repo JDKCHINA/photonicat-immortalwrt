@@ -18,7 +18,7 @@
 - 项目使用 Github Actions 拉取Openwrt的源码有 [![Lean](https://img.shields.io/badge/Lede-OpenWrt-ff69b4.svg?style=flat&logo=appveyor)](https://github.com/coolsnowwolf/lede) [![Immortalwrt](https://img.shields.io/badge/immortalwrt-OpenWrt-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/immortalwrt/immortalwrt) [![Lienol](https://img.shields.io/badge/Lienol-OpenWrt-orange.svg?style=flat&logo=appveyor)](https://github.com/Lienol/openwrt) [![Official](https://img.shields.io/badge/Official-OpenWrt-32C955.svg?style=flat&logo=appveyor)](https://github.com/openwrt/openwrt) [![Xwrt](https://img.shields.io/badge/Xwrt-OpenWrt-32C955.svg?style=flat&logo=appveyor)](https://github.com/x-wrt/x-wrt)
 - 固件构成： [![P3TERX](https://img.shields.io/badge/OpenWrt-P3TERX-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/P3TERX/Actions-OpenWrt) [![281677160](https://img.shields.io/badge/OpenWrt-common-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/281677160/common) 
 - 固件默认管理地址：`192.168.5.1` 默认用户：`root` x86_64密码：`【空】` Rockchip密码`【password】`
-- 提供适配于Rockchip个别平台、photonicat 以及 X86 平台设备的 OpenWrt 固件
+- 提供适配photonicat 以及 X86 平台设备的 OpenWrt 固件
 - ### X86_64 [`x86_64💕`](https://github.com/Namia-M/OpenWrt-X) 
 - 项目编译的固件插件为最新版本，最新版插件可能有 BUG，如果之前使用稳定则无需追新
 - 第一次使用请采用全新安装，避免出现升级失败以及其他一些可能的 BUG
