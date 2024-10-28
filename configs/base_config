@@ -473,9 +473,9 @@ CONFIG_FEED_telephony=y
 CONFIG_FEED_diy1=y
 CONFIG_FEED_diy2=y
 CONFIG_FEED_passwall2=y
-CONFIG_FEED_mosdns1=y
-CONFIG_FEED_mosdns2=y
-CONFIG_FEED_agd=y
+CONFIG_FEED_mosdns=y
+# CONFIG_FEED_mosdns2 is not set
+CONFIG_FEED_adguardhome=y
 CONFIG_FEED_istore=y
 
 
