@@ -19,7 +19,7 @@
 - 固件构成： [![P3TERX](https://img.shields.io/badge/OpenWrt-P3TERX-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/P3TERX/Actions-OpenWrt) [![281677160](https://img.shields.io/badge/OpenWrt-common-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/281677160/common) 
 - 固件默认管理地址：`192.168.5.1` 默认用户：`root` 默认密码：`【空】`
 - 暂时提供适配于Rockchip个别平台、光影猫photonicat以及 X86 平台设备的 OpenWrt 固件
-- ### photonicat [`X86_64💕`](https://github.com/Namia-M/OpenWrt-X) 
+- ### X86_64 [`X86_64💕`](https://github.com/Namia-M/OpenWrt-X) 
 - 项目编译的固件插件为最新版本，最新版插件可能有 BUG，如果之前使用稳定则无需追新
 - 第一次使用请采用全新安装，避免出现升级失败以及其他一些可能的 BUG
 - 支持uefi和传统启动两种模式，可以使用微pe或传统你们知道的刷机方式
