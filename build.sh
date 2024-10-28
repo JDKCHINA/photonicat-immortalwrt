@@ -11,7 +11,6 @@ src-git diy1 https://github.com/xiaorouji/openwrt-passwall-packages.git;main
 src-git diy2 https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
 src-git moddns1 https://github.com/sbwml/luci-app-mosdns.git;v5-lua
-src-git mosdns2 https://github.com/sbwml/v2ray-geodata.git;v5-lua
 src-git istore https://github.com/linkease/istore-ui.git;main
 src-git adguardhome https://github.com/kongfl888/luci-app-adguardhome.git;master
 
