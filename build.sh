@@ -13,6 +13,7 @@ src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
 src-git mosdns https://github.com/sbwml/luci-app-mosdns.git;v5-lua
 src-git istore https://github.com/linkease/istore-ui.git;main
 src-git adguard https://github.com/Namia-M/openwrt-package.git;adguard
+src-git modem https://github.com/Siriling/5G-Modem-Support.git;main
 
 EOF
 rm target/linux/rockchip/files/arch/arm64/boot/dts/rockchip/rk3568-photonicat.dts
