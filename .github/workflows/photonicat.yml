@@ -21,12 +21,12 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
           
-      - name: delete tag
-        uses: dev-drprasad/delete-tag-and-release@v1.0
-        with:
-          tag_name: ${{ env.TAG_NAME }}
-          github_token: ${{ secrets.TOKEN }}
-          delete_release: true 
+    #  - name: delete tag
+   #     uses: dev-drprasad/delete-tag-and-release@v1.0
+    #    with:
+   #       tag_name: ${{ env.TAG_NAME }}
+   #       github_token: ${{ secrets.TOKEN }}
+    #      delete_release: true 
           
       - name: Tag release
         id: create_tag
